@@ -1,7 +1,7 @@
 /* Nome: Ronan Jorge
  * Data: 28/02/2023
- * Objetivo: 05)  Escrever uma fun��o recursiva que, dado uma posi��o da s�rie de fibonacci,
- * a fun��o retorne seu valor. Entrada limitada a 20.*/
+ * Objetivo: 05)  Escrever uma fun��o recursiva que, dado uma posicao da serie de fibonacci,
+ * a funcao retorne seu valor. Entrada limitada a 20.*/
 
 package view;
 
