@@ -1,7 +1,7 @@
 /* Nome: Ronan Jorge
  * Data: 28/02/2023
- * Objetivo: 05)  Escrever uma função recursiva que, dado uma posição da série de fibonacci,
- * a função retorne seu valor. Entrada limitada a 20.*/
+ * Objetivo: 05)  Escrever uma funï¿½ï¿½o recursiva que, dado uma posiï¿½ï¿½o da sï¿½rie de fibonacci,
+ * a funï¿½ï¿½o retorne seu valor. Entrada limitada a 20.*/
 
 package view;
 
@@ -12,8 +12,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 		OperacoesController op = new OperacoesController();
-		int n = Integer.parseInt(JOptionPane.showInputDialog("Entre com a posição na série de Fibonacci:"));
-		System.out.println("O valor da "+n+"ª posição da série de Fibonacci é "+op.fib(n)+".");
+		int n = Integer.parseInt(JOptionPane.showInputDialog("Entre com a posicao na serie de Fibonacci:"));
+		System.out.println("O valor da "+n+"a. posicao da serie de Fibonacci : "+op.fib(n)+".");
 	}
 
 }
